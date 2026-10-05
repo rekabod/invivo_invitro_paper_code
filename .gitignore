@@ -1,0 +1,56 @@
+# Data files (large files, raw data)
+data/
+*.mat
+*.npy
+*.hdf5
+*.h5
+*.nii
+*.nii.gz
+*.edf
+*.bdf
+*.csv
+*.tsv
+*.pkl
+*.pickle
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+
+# Figures (intermediate)
+*.png
+*.pdf
+*.svg
+!figures/README.md
+
+# Temporary files
+tmp/
+temp/
+*.tmp
