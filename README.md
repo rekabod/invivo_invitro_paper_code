@@ -166,17 +166,21 @@ The `stats/` scripts produce Excel workbooks and CSV outputs with FDR-corrected 
 ## Citation
 
 ```bibtex
-@article{your_citation_here,
-  title={Cortical isolation separates rhythmic synchrony from network integration in the human neocortex},
-  author={Your Name et al.},
-  journal={Your Journal},
-  year={2026}
+@article {Bod2026.09.02.748777,
+	author = {Bod, R{\'e}ka and T{\'o}th, Kinga and Farkas, Orsolya and Michaeli, Yossef and T{\'o}th, Katalin Zs{\'o}fia and Kandr{\'a}cs, {\'A}gnes and Hofer, Katharina T. and Fab{\'o}, D{\'a}niel and Hajnal, Bogl{\'a}rka and Szab{\'o}, Johanna Petra and Er{\H o}ss, Lor{\'a}nd and Entz, L{\'a}szl{\'o} and Ulbert, Istv{\'a}n and Wittner, Lucia},
+	title = {Cortical isolation separates rhythmic synchrony from network integration in the human neocortex},
+	elocation-id = {2026.09.02.748777},
+	year = {2026},
+	doi = {10.64898/2026.09.02.748777},
+	URL = {https://www.biorxiv.org/content/early/2026/09/06/2026.09.02.748777},
+	eprint = {https://www.biorxiv.org/content/early/2026/09/06/2026.09.02.748777.full.pdf},
+	journal = {bioRxiv}
 }
 ```
 
 ## License
 
-[Add license here]
+MIT license
 
 ## Contact
 
