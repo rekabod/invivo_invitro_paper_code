@@ -1,0 +1,46 @@
+# ============================================================
+# Cortical Isolation — Wake / Sleep / In Vitro Paper Code
+# ============================================================
+# Core computational dependencies (from final_model)
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+
+# Plotting & visualization
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.0
+kaleido>=0.2
+
+# Graph & network analysis
+networkx>=3.0
+
+# Machine learning & dimensionality
+scikit-learn>=1.3
+numba>=0.58
+
+# Progress bars
+tqdm>=4.65
+
+# Configuration
+pyyaml>=6.0
+
+# Statistics & hypothesis testing
+statsmodels>=0.14
+
+# Excel export
+openpyxl>=3.1
+
+# Sobol sensitivity analysis (optional — final_model)
+SALib>=1.4
+
+# Notebooks
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.0
+
+# EEG / ECoG processing
+mne>=1.6
+
+# Utilities
+pathlib2>=2.3; python_version<"3.4"
